@@ -13,7 +13,8 @@ ul {
     height: 60px;
 }
 
-main {
+main,
+.content {
     margin: 0 auto;
     width: 980px;
     position: relative;
@@ -152,4 +153,51 @@ button.slick-next {
 
 li.slick-active button {
     background: #00bac6;
+}
+
+.texto-destaque {
+    text-align: center;
+}
+
+.texto-destaque h1 {
+    color: #818181;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.texto-destaque strong {
+    color: #646464;
+}
+
+.texto-destaque p {
+    color: #9a9a9a;
+    font-size: 15px;
+    width: 95%;
+    margin-top: 0cm;
+}
+
+.col-3 p {
+    color: #9a9a9a;
+    font-size: 15px;
+}
+
+.col-3 h3 {
+    color: #818181
+}
+
+.col-3 {
+    width: 30%;
+    float: left;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.bloco-texto {
+    margin-top: 3em;
+}
+
+h3,
+h1 {
+    font-weight: normal;
 }
