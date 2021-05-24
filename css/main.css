@@ -222,30 +222,3 @@ h1 {
 .col-4 img:hover {
     margin-top: 8px;
 }
-
-.footer h3 {
-    text-align: left;
-}
-
-.footer {
-    background: #444444a1;
-    color: #ffffff;
-}
-
-.footer p {
-    text-align: left;
-    padding-right: 15px;
-    text-align: justify;
-}
-
-.footer span {
-    text-align: left;
-}
-
-.footer-2 {
-    background: #252323;
-    color: #ffffff;
-    text-align: left;
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
