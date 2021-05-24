@@ -222,3 +222,31 @@ h1 {
 .col-4 img:hover {
     margin-top: 8px;
 }
+
+.col-4 {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.footer p {
+    padding-right: 15px;
+    text-align: justify;
+}
+
+.footer h3 {
+    text-align: left;
+}
+
+.footer {
+    color: rgb(255, 255, 255);
+    background: rgba(68, 68, 68, 0.63);
+}
+
+.footer-2 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: rgb(37, 35, 35);
+}
